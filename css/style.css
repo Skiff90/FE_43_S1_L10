@@ -1,0 +1,13 @@
+:root {
+    --main-color:#000;
+    --acsent-color:#FED136;
+}
+body {
+    color:var(--main-color)
+}
+.logo {
+    color:var(--acsent-color)
+}
+.nav-link {
+    color: var(--acsent-color);
+}
